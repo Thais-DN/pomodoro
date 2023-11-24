@@ -70,10 +70,11 @@ h1, h2, h3, h4, h5, h6 {
 .app__title {
     width: 200%;
     line-height: 150%;
-    font-size: 5.2rem;
+    font-size: 6rem;
     color: var(--color-secondary);
     font-weight: 200;
-    max-width: 46rem;
+    max-width: 70rem;
+    text-align: center;
 }
 
 .app__title-strong {
