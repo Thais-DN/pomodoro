@@ -8,7 +8,7 @@
 }
 
 [data-contexto="foco"] {
-    --main-bg-image: url("/imagens/bg-foco.png");
+    --main-bg-image: url("/imagens/bg-foco.webp");
 }
 
 [data-contexto="descanso-curto"] {
@@ -92,7 +92,7 @@ h1, h2, h3, h4, h5, h6 {
     background: var(--fundo-card-timer);
     padding: 2.4rem;
     margin: 8rem 0;
-    width: 59rem;
+    width: 100rem;
     max-width: 90%;
 }
 
