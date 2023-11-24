@@ -13,6 +13,6 @@ Botões de Controle: Botões para iniciar e pausar o temporizador, permitindo ao
 
 Estilização Personalizada: Design atraente e responsivo usando HTML e CSS para criar uma interface intuitiva e amigável.
 
-<img src="https://github.com/Thais-DN/pomodoro/blob/main/tela.gif" alt="VideoTela">
+<img src="https://github.com/Thais-DN/pomodoro/blob/main/Tela.gif" alt="VideoTela">
 
 Este projeto Pomodoro, desenvolvido com HTML, CSS e JavaScript, oferece uma abordagem prática para melhorar a produtividade e a gestão do tempo, tornando-se uma ferramenta útil para estudantes, profissionais e qualquer pessoa interessada em otimizar seu tempo de trabalho.
